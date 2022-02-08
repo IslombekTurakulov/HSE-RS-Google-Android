@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Task22</string>
+    <string name="help">О программе</string>
+    <string name="fio">Туракулов Исломбек Улугбекович</string>
+    <string name="name">Name</string>
+    <string name="some_number">+7 985 123 45 67</string>
+    <string name="call">Call</string>
+    <string name="name_edit">Contact:</string>
+    <string name="enter_phone_name">My name</string>
+    <string name="phone_edit">Phone:</string>
+    <string name="enter_person_phone">+X XXX XXX-XX-XX</string>
+    <string name="edit_add">Add</string>
+</resources>

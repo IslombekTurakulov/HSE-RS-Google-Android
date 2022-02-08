@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">task3</string>
+    <string name="fullName">Туракулов Исломбек Улугбекович БПИ204</string>
+    <string name="hintName">First Activity</string>
+    <string name="enter_the_text_hint">Enter the text</string>
+    <string name="activity_info">Second activity</string>
+    <string name="textFromFirstActivity">Text</string>
+    <string name="buttonText">Next</string>
+    <string name="buttonName">Back</string>
+</resources>

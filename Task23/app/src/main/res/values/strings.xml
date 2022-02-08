@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Task-23</string>
+    <string name="help">О программе</string>
+    <string name="fio">Туракулов Исломбек Улугбекович</string>
+    <string name="speak">Speak</string>
+</resources>

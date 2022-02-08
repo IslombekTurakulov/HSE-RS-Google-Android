@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Task2</string>
+    <string name="full_name">Туракулов Исломбек Улугбекович</string>
+    <string name="group">БПИ204</string>
+    <string name="button">Button</string>
+    <string name="example">Example</string>
+    <string name="hintToEditText">Введите текст</string>
+</resources>

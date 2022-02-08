@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Task5</string>
+    <string name="contact_name">Contact Name</string>
+    <string name="title_lang">Title</string>
+    <string name="my_description_lang">My description</string>
+    <string name="description_hint">Description</string>
+    <string-array name="languages">
+        <item>C#</item>
+        <item>C++</item>
+        <item>Java</item>
+        <item>Kotlin</item>
+        <item>VisualStudio</item>
+    </string-array>
+
+    <string-array name="description">
+        <item>Language</item>
+        <item>Language</item>
+        <item>Language</item>
+        <item>Language</item>
+        <item>Language</item>
+    </string-array>
+</resources>

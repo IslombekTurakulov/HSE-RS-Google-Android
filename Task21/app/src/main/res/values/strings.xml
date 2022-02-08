@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Task21</string>
+    <string name="help">О программе</string>
+    <string name="back">Back</string>
+    <string name="next">Next</string>
+    <string name="photos">Photos</string>
+</resources>
